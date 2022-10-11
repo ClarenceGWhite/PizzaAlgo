@@ -1,0 +1,5 @@
+Decide which business to order from
+Decide what kind of pizza to order
+Call the business
+Place the order
+Wait for the pizza to arrive
