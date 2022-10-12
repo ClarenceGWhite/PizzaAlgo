@@ -3,3 +3,6 @@ Decide what kind of pizza to order
 Call the business
 Place the order
 Wait for the pizza to arrive
+Eat the pizza
+Clean up the mess
+Throw away pizza box
